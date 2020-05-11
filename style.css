@@ -1,0 +1,27 @@
+h1{
+	color: #71FA4B;
+	font-size: 4em;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+img{
+	width: 30%;
+	margin-left: 35%;
+	margin-right: 35%;
+}
+.hello{
+	margin-left: 15%;
+	margin-right: 15%;
+	font-size: 1.5em;
+}
+div{
+	margin-left: 15%;
+	margin-right: 15%;
+	background-color: #FFFFFF;
+	padding-bottom: 50px;
+	padding-top: 50px;
+
+}
+body{
+	background-color: #E8DED1;
+}
